@@ -22,9 +22,9 @@ Soy un desarrollador backend con experiencia en Django y Laravel. Me encanta con
 ---
 
 ### 📫 Contacto
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tuusuario)
-- GitHub: [Tu GitHub](https://github.com/tuusuario)
-- Correo: [TuEmail@ejemplo.com](mailto:TuEmail@ejemplo.com)
+- LinkedIn: [Tu Perfil](www.linkedin.com/in/leonard-quito-05bb421bb)
+- GitHub: [Tu GitHub](https://github.com/Leonardo-max-el)
+- Correo: [TuEmail@ejemplo.com](leonardquito.ue@gmail.com)
 
 ¡Siempre abierto a colaborar en proyectos interesantes! 🚀
 
