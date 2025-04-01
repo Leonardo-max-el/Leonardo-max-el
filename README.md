@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy Leonardo Quito E.
 
 ### 🚀 Desarrollador Backend | Apasionado por la IA y las Startups
 
@@ -8,8 +8,8 @@ Soy un desarrollador backend con experiencia en Django y Laravel. Me encanta con
 
 ### 🔧 Tecnologías y Herramientas
 - **Backend:** Django, Laravel, Python, PHP
-- **Bases de Datos:** PostgreSQL, MySQL
-- **Frontend:** Tailwind CSS, HTML, JavaScript
+- **Bases de Datos:** PostgreSQL, MySQL, SQL, MongoDB
+- **Frontend:** Tailwind CSS, HTML, JavaScript, Astro
 - **Otros:** API REST, Git, Docker
 
 ---
@@ -17,7 +17,7 @@ Soy un desarrollador backend con experiencia en Django y Laravel. Me encanta con
 ### 🌱 Actualmente
 - Buscando oportunidades como **Desarrollador Backend** 💼
 - Aprendiendo más sobre **React y arquitecturas escalables** 📚
-- Desarrollando proyectos personales con **Django y Laravel** ⚡
+- Desarrollando proyectos personales con **Django y Python** ⚡
 
 ---
 
