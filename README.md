@@ -53,8 +53,8 @@ Además de mi experiencia práctica, tengo conocimientos sólidos en **bases de 
 
 ## 📫 ¿Hablamos?
 
-- 📩 Email: tuemail@ejemplo.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)  
+- 📩 Email: leonardquito.eu@gmail.com 
+- 💼 [LinkedIn](www.linkedin.com/in/leonard-eu)  
 - 🌐 Portfolio personal (próximamente)
 
 ---
