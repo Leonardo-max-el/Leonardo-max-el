@@ -1,38 +1,62 @@
-# 👋 Hola, soy Leonardo Quito E.
+# 👋 ¡Hola! Soy Leonardo Quito E.
 
-### 🚀 Desarrollador Backend | Apasionado por la IA y las Startups
+### 🚀 Desarrollador Backend | Apasionado por la IA, la automatización y el mundo de las startups
 
-Desarrollador Backend Junior con experiencia práctica en Python y Django, y sólidos conocimientos en bases de
-datos relacionales (MySQL, SQL Server). He desarrollado proyectos propios enfocados en la digitalización de
-procesos empresariales, demostrando capacidad para planificar, diseñar e implementar soluciones web desde
-cero. Complemento mis habilidades con conocimientos en Frontend (HTML, CSS, Bootstrap, Tailwind CSS) y
-conocimiento base en JavaScript, React y Laravel. Proactivo, autodidacta y con experiencia previa en entornos de
-tecnología y soporte de redes.
+Soy un **Desarrollador Backend Junior** con experiencia en la construcción de aplicaciones web usando **Python y Django**, y un enfoque creciente en el uso de **IA aplicada a procesos empresariales**. Me especializo en el desarrollo de soluciones que digitalizan, automatizan y mejoran la eficiencia de flujos operativos en entornos reales.
+
+Además de mi experiencia práctica, tengo conocimientos sólidos en **bases de datos relacionales y no relacionales**, integración de APIs y herramientas de despliegue modernas. Me considero autodidacta, proactivo y con experiencia en entornos de soporte técnico y desarrollo.
 
 ---
 
-### 🔧 Tecnologías y Herramientas
-- Backend: Python (Django), PHP (Laravel).
-- APIs: Integración de APIs (OPENIA, Google), APIREST.
-- Bases de datos: PostgreSQL, MySQL, SQL Server, MongoDB.
-- Frontend: Tailwind CSS, HTML, JavaScript, Astro, React (básico), Tailwind CSS, Boostrap.
-- Otros: Github, Power BI, Xampp, Weavite (NoSQL básico).
+## 🧠 Actualmente estoy:
+
+- 🔍 Buscando nuevas oportunidades como **Desarrollador Backend Junior**.
+- 🤖 Explorando la integración de **Inteligencia Artificial** (OpenAI, APIs especializadas) en soluciones web.
+- 🧪 Desarrollando proyectos personales con **Django**, **FastAPI**, **Weaviate**, y **OpenAI API**.
+- 🚀 Participando en una **startup** de servicios digitales, construyendo herramientas de gestión interna.
+- 🛠️ Aprendiendo y practicando tecnologías como **React**, **MongoDB**, y **Docker** para mejorar mis despliegues y flujos de trabajo.
 
 ---
 
-🌱 Actualmente
-- En búsqueda de nuevas oportunidades como Desarrollador Backend Junior en entornos dinámicos y con visión tecnológica. 
-- Profundizando conocimientos en integración de Inteligencia Artificial (OpenAI, APIs de IA) aplicada a soluciones   empresariales. 🤖
-- Participando en STARTUP desarrollando soluciones digitales para gestión de servicios y procesos. 🚀
-- Fortaleciendo habilidades en React y buenas prácticas para construir aplicaciones escalables y mantenibles. 📚
-- Desarrollando proyectos personales con Python, Django y bases de datos relacionales/no relacionales, enfocados en automatización y digitalización de procesos. ⚡
+## 🧰 Tecnologías y herramientas
+
+### 🖥️ Backend
+- **Python** (Django, FastAPI)
+- **PHP** (Laravel - nivel básico)
+- API REST / Integración de APIs (OpenAI, Google)
+
+### 🗄️ Bases de Datos
+- **Relacionales**: MySQL, PostgreSQL, SQL Server
+- **NoSQL**: MongoDB, Weaviate
+
+### 💻 Frontend
+- HTML, CSS
+- **Tailwind CSS**, **Bootstrap**
+- JavaScript (básico), React (básico), Astro (básico)
+
+### ⚙️ DevOps y Herramientas
+- Git & GitHub
+- Docker (aprendiendo)
+- Power BI (reportes y análisis de datos)
+- XAMPP
 
 ---
 
-### 📫 Contacto
-- LinkedIn: www.linkedin.com/in/leonard-quito-05bb421bb
-- GitHub: https://github.com/Leonardo-max-el
-- Correo: quitoespirituleonardo@gmail.com
+## 📦 Proyectos destacados
 
-¡Siempre abierto a colaborar en proyectos interesantes! 🚀
+- 🎓 [Sistema de seguimiento de grados y títulos](https://github.com/Leonardo-max-el/Proyecto_Titulacion.git): Registro y control del proceso de titulación universitaria.
+- 🧾 [Sistema de monitoreo de aulas con reportes en Excel](https://github.com/Leonardo-max-el/controlic.git): Registro del estado de aulas con usuarios por rol y exportación de reportes por fecha.
+- 🧠 [Chatbot con Weaviate + OpenAI](https://github.com/Leonardo-max-el/chat-weavite-db.git): Asistente inteligente que responde como un vendedor especializado usando NLP y bases vectoriales.
+- 🗃️ [Digitalización de inventarios](https://github.com/Leonardo-max-el/INVICIC.git)): Carga masiva de datos, generación de actas en Word y control de activos por estados.
 
+---
+
+## 📫 ¿Hablamos?
+
+- 📩 Email: tuemail@ejemplo.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)  
+- 🌐 Portfolio personal (próximamente)
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
