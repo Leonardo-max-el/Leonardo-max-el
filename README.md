@@ -6,7 +6,8 @@ Me interesa especialmente aplicar la Inteligencia Artificial y la automatizació
 
 También tengo experiencia trabajando con bases de datos relacionales y no relacionales, integración de APIs y el uso de herramientas modernas para despliegue. Me considero autodidacta, proactivo y con un recorrido que combina soporte técnico y desarrollo de software.
 
-🧠 Actualmente estoy
+🧠 Actualmente estoy:
+
 🔍 Buscando oportunidades como Desarrollador Junior en desarrollo movil o plataformas web.
 🤖 Explorando cómo integrar IA (OpenAI, APIs especializadas) en soluciones web y móviles.
 🧪 Trabajando en proyectos personales con Django, FastAPI, Flutter, Weaviate y OpenAI API.
