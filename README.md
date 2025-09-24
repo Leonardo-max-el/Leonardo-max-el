@@ -23,6 +23,7 @@ También tengo experiencia trabajando con bases de datos relacionales y no relac
 🎓 Estudiando un Pregrado en Ciencia de Datos, fortaleciendo mis bases en análisis y ciencia aplicada.
 
 
+
 🧰 Tecnologías y herramientas
 🖥️ Backend
 
@@ -32,15 +33,18 @@ PHP (Laravel – nivel básico)
 
 API REST / Integración de APIs (OpenAI, Google)
 
+
 📱 Móvil / Web
 
 Flutter (nivel junior – proyectos personales y favoritos)
+
 
 🗄️ Bases de Datos
 
 Relacionales: MySQL, PostgreSQL, SQL Server
 
 NoSQL: MongoDB, Weaviate
+
 
 💻 Frontend
 
@@ -50,6 +54,7 @@ Tailwind CSS, Bootstrap
 
 JavaScript (básico), React (básico), Astro (básico)
 
+
 ⚙️ DevOps y Herramientas
 
 Git & GitHub
@@ -57,6 +62,7 @@ Git & GitHub
 Docker (aprendiendo)
 
 Power BI (reportes y análisis de datos)
+
 XAMPP
 ---
 ## 📦 Proyectos destacados
