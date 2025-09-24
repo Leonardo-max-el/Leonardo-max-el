@@ -9,7 +9,9 @@ También tengo experiencia trabajando con bases de datos relacionales y no relac
 🧠 Actualmente estoy:
 
 🔍 Buscando oportunidades como Desarrollador Junior en desarrollo movil o plataformas web.
+
 🤖 Explorando cómo integrar IA (OpenAI, APIs especializadas) en soluciones web y móviles.
+
 🧪 Trabajando en proyectos personales con Django, FastAPI, Flutter, Weaviate y OpenAI API.
 🚀 Colaborando en una startup de servicios digitales, creando herramientas internas de gestión.
 🛠️ Aprendiendo y practicando tecnologías como React, MongoDB y Docker para mejorar mis flujos de desarrollo y despliegue.
