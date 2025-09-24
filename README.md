@@ -1,4 +1,5 @@
 👋 ¡Hola! Soy Leonardo Quito E.
+
 🚀 Desarrollador Junior | Apasionado por la IA, la automatización y el mundo de las startups
 Soy un Desarrollador Junior con experiencia en el desarrollo de aplicaciones web con Python (Django, FastAPI) y en la creación de aplicaciones móviles y web con Flutter, uno de mis frameworks favoritos.
 Me interesa especialmente aplicar la Inteligencia Artificial y la automatización para optimizar procesos en empresas y startups.
