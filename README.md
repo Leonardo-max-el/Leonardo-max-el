@@ -1,44 +1,59 @@
-# 👋 ¡Hola! Soy Leonardo Quito E.
+👋 ¡Hola! Soy Leonardo Quito E.
+🚀 Desarrollador Junior | Apasionado por la IA, la automatización y el mundo de las startups
 
-### 🚀 Desarrollador Backend | Apasionado por la IA, la automatización y el mundo de las startups
+Soy un Desarrollador Junior con experiencia en el desarrollo de aplicaciones web con Python (Django, FastAPI) y en la creación de aplicaciones móviles y web con Flutter, uno de mis frameworks favoritos.
+Me interesa especialmente aplicar la Inteligencia Artificial y la automatización para optimizar procesos en empresas y startups.
 
-Soy un **Desarrollador Backend Junior** con experiencia en la construcción de aplicaciones web usando **Python y Django**, y un enfoque creciente en el uso de **IA aplicada a procesos empresariales**. Me especializo en el desarrollo de soluciones que digitalizan, automatizan y mejoran la eficiencia de flujos operativos en entornos reales.
+También tengo experiencia trabajando con bases de datos relacionales y no relacionales, integración de APIs y el uso de herramientas modernas para despliegue. Me considero autodidacta, proactivo y con un recorrido que combina soporte técnico y desarrollo de software.
 
-Además de mi experiencia práctica, tengo conocimientos sólidos en **bases de datos relacionales y no relacionales**, integración de APIs y herramientas de despliegue modernas. Me considero autodidacta, proactivo y con experiencia en entornos de soporte técnico y desarrollo.
+🧠 Actualmente estoy:
 
----
+🔍 Buscando oportunidades como Desarrollador Junior en desarrollo movil o plataformas web.
 
-## 🧠 Actualmente estoy:
+🤖 Explorando cómo integrar IA (OpenAI, APIs especializadas) en soluciones web y móviles.
 
-- 🔍 Buscando nuevas oportunidades como **Desarrollador Backend Junior**.
-- 🤖 Explorando la integración de **Inteligencia Artificial** (OpenAI, APIs especializadas) en soluciones web.
-- 🧪 Desarrollando proyectos personales con **Django**, **FastAPI**, **Weaviate**, y **OpenAI API**.
-- 🚀 Participando en una **startup** de servicios digitales, construyendo herramientas de gestión interna.
-- 🛠️ Aprendiendo y practicando tecnologías como **React**, **MongoDB**, y **Docker** para mejorar mis despliegues y flujos de trabajo.
+🧪 Trabajando en proyectos personales con Django, FastAPI, Flutter, Weaviate y OpenAI API.
 
----
+🚀 Colaborando en una startup de servicios digitales, creando herramientas internas de gestión.
 
-## 🧰 Tecnologías y herramientas
+🛠️ Aprendiendo y practicando tecnologías como React, MongoDB y Docker para mejorar mis flujos de desarrollo y despliegue.
 
-### 🖥️ Backend
-- **Python** (Django, FastAPI)
-- **PHP** (Laravel - nivel básico)
-- API REST / Integración de APIs (OpenAI, Google)
+🧰 Tecnologías y herramientas
+🖥️ Backend
 
-### 🗄️ Bases de Datos
-- **Relacionales**: MySQL, PostgreSQL, SQL Server
-- **NoSQL**: MongoDB, Weaviate
+Python (Django, FastAPI)
 
-### 💻 Frontend
-- HTML, CSS
-- **Tailwind CSS**, **Bootstrap**
-- JavaScript (básico), React (básico), Astro (básico)
+PHP (Laravel – nivel básico)
 
-### ⚙️ DevOps y Herramientas
-- Git & GitHub
-- Docker (aprendiendo)
-- Power BI (reportes y análisis de datos)
-- XAMPP
+API REST / Integración de APIs (OpenAI, Google)
+
+📱 Móvil / Web
+
+Flutter (nivel junior – proyectos personales y favoritos)
+
+🗄️ Bases de Datos
+
+Relacionales: MySQL, PostgreSQL, SQL Server
+
+NoSQL: MongoDB, Weaviate
+
+💻 Frontend
+
+HTML, CSS
+
+Tailwind CSS, Bootstrap
+
+JavaScript (básico), React (básico), Astro (básico)
+
+⚙️ DevOps y Herramientas
+
+Git & GitHub
+
+Docker (aprendiendo)
+
+Power BI (reportes y análisis de datos)
+
+XAMPP
 
 ---
 
